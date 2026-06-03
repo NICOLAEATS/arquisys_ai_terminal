@@ -1,0 +1,10 @@
+documentos/
+tests/
+__pycache__/
+*.pyc
+.env
+output_diagrams/
+node_modules/
+*.tgz
+CAPTURA DE CONTEXTO.png
+INTERFAZ.png
